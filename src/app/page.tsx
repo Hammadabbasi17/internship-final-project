@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Frame from "../../images/Frame 600.png"
-import Navbar from "./components/Navbar/Navbar";
+
 import Header from "./components/Header/Header";
 import Remote from "../../images/Frame 570.png"
 import Keyboard from "../../images/Frame 570 (1).png"
