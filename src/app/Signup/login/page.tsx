@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import sideimage from "../../../../images/Side Image.png"
 import { Input } from '@/components/ui/input'
-import Link from 'next/link'
+
 
 const page = () => {
     return (
