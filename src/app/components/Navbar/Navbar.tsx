@@ -2,9 +2,6 @@
 import {
     Sheet,
     SheetContent,
-    SheetDescription,
-    SheetHeader,
-    SheetTitle,
     SheetTrigger,
 } from "@/components/ui/sheet"
 
@@ -24,7 +21,7 @@ import {
 import Link from "next/link"
 import { CiSearch } from "react-icons/ci"
 import { FaRegHeart } from "react-icons/fa"
-import { IoIosContact } from "react-icons/io"
+
 import { LuMenu } from "react-icons/lu"
 import { MdOutlineShoppingCart } from "react-icons/md"
 
