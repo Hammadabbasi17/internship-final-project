@@ -4,11 +4,11 @@ import { RxMobile } from 'react-icons/rx'
 import { HiOutlineComputerDesktop } from 'react-icons/hi2'
 import { PiWatchThin } from 'react-icons/pi'
 import { CiCamera } from 'react-icons/ci'
-import { FaStar } from 'react-icons/fa'
+
 import Man1 from "../../../images/Frame 874.png"
 import Women1 from "../../../images/Frame 875.png"
 import Man2 from "../../../images/Frame 876.png"
-import { GrFacebookOption } from 'react-icons/gr'
+
 import { RiLinkedinBoxFill, RiTwitterFill } from 'react-icons/ri'
 import { IoLogoInstagram } from 'react-icons/io'
 
