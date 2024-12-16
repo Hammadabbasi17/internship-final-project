@@ -4,6 +4,7 @@ import React from 'react'
 const Contact = () => {
   return (
     <div>
+      <p className='text-center text-[30px]'>hello hammad</p>
       <div className='w-full h-auto flex flex-col lg:flex-row justify-evenly items-center gap-9 mt-[120px]'>
         <div className='w-auto lg:w-[340px] h-auto '>
           <div className='w-[262px] h-[122px] '>
