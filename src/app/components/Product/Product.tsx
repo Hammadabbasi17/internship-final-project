@@ -34,15 +34,15 @@ const Product = () => {
 
 
 
-            <div className="w-full h-auto  flex justify-center items-center  overflow-hidden " >
+            <div className="w-full h-auto  flex justify-center items-center  overflow-hidden" >
                 <div className="w-full xl:w-[80%] h-auto ">
 
 
 
                     {/* Large box 1 start */}
-                    <div className="flex flex-wrap   justify-evenly items-center w-full h-[1800px] sm:h-[800px]  xl:h-[500px]">
+                    <div className="flex flex-wrap   justify-evenly items-center w-full h-auto pb-12 pt-11 gap-8">
                         {/* box one */}
-                        <div className="w-[270px] h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px] h-auto flex-col  text-black justify-between items-center ">
 
 
 
@@ -89,7 +89,7 @@ const Product = () => {
 
                         {/* box two start */}
 
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto  flex-col  text-black justify-between items-center">
 
 
 
@@ -125,7 +125,7 @@ const Product = () => {
 
                         {/* box three start */}
 
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto flex-col  text-black justify-between items-center">
 
 
 
@@ -156,7 +156,7 @@ const Product = () => {
 
 
                         {/* box four start */}
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto  flex-col  text-black justify-between items-center">
 
 
 
@@ -185,15 +185,15 @@ const Product = () => {
                         {/* box four end */}
 
 
-                    </div>
+                    
 
-                    {/* large box 1 end */}
+                       {/* large box 1 end */}
 
-
-                    {/* Large box 2 start */}
-                    <div className="flex flex-wrap   justify-evenly items-center w-full h-[1800px] sm:h-[800px]  xl:h-[500px]">
+                   
+                      {/* Large box 2 start */}
+                    
                         {/* box one */}
-                        <div className="w-[270px] h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px] h-auto flex-col  text-black justify-between items-center">
 
 
 
@@ -240,7 +240,7 @@ const Product = () => {
 
                         {/* box two start */}
 
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto  flex-col  text-black justify-between items-center">
 
 
 
@@ -276,7 +276,7 @@ const Product = () => {
 
                         {/* box three start */}
 
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto flex-col  text-black justify-between items-center">
 
 
 
@@ -307,7 +307,7 @@ const Product = () => {
 
 
                         {/* box four start */}
-                        <div className="w-[270px]  h-[350px]  flex-col  text-black justify-between items-center">
+                        <div className="w-[270px]  h-auto  flex-col  text-black justify-between items-center">
 
 
 
