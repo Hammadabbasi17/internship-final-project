@@ -82,7 +82,7 @@ const Product = () => {
                          <Link href={`products/${items.id}`}>
 
 
-                            <div key={index} className="w-[270px] h-auto flex-col  text-black justify-between items-center ">
+                            <div key={items.id} className="w-[270px] h-auto flex-col  text-black justify-between items-center ">
 
                                 {/* small box 1 */}
 
