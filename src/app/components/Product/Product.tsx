@@ -78,11 +78,11 @@ const Product = () => {
                     {/* Large box 1 start */}
                     <div className="flex flex-wrap   justify-evenly items-center w-full h-auto pb-12 pt-11 gap-8">
                   
-                        {displayedProducts.map((items, index) => (
-                         <Link href={`products/${items.id}`}>
+                        {displayedProducts.map((items) => (
+                         <Link key={items.id} href={`products/${items.id}`}>
 
 
-                            <div key={items.id} className="w-[270px] h-auto flex-col  text-black justify-between items-center ">
+                            <div  className="w-[270px] h-auto flex-col  text-black justify-between items-center ">
 
                                 {/* small box 1 */}
 
