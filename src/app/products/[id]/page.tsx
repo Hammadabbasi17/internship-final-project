@@ -70,7 +70,7 @@ const Shop = ({
                                 <FaStar className="text-yellow-400" />
                                 <FaStar className="text-yellow-400" />
                                 <FaStar className="text-yellow-400" />
-                                <h1 className="pl-2">{data.rating.rate}</h1>  <span className="pl-2">Out of  ({data.rating.count})</span>
+                                <h1 className="pl-2">{data.rating.rate}</h1>  ({data.rating.count})
                             </div>
 
                             <button className="w-[171px] h-[52px] text-[16px] text-white mt-8 border bg-black border-black rounded-3xl hover:bg-transparent hover:text-black transition-all duration-500"> ${data.price} USD</button>
