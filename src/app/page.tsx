@@ -241,9 +241,9 @@ export default function Home() {
 
       {/* Product list section */}
       <Product />
-      <div className="w-full h-[100px] mt-[40px] flex justify-center items-center">
+      {/* <div className="w-full h-[100px] mt-[40px] flex justify-center items-center">
         <button className="w-[220px] sm:w-[234px] h-[56px]  bg-oranges text-[14px] text-white  border-[1px] border-oranges rounded-[5px] hover:bg-transparent hover:text-black transition-all duration-[0.5s]">View All Products</button>
-      </div>
+      </div> */}
 
 
 
