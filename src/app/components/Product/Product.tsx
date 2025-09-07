@@ -1,15 +1,6 @@
-
-
 "use client"
 import Image from "next/image"
-import Cart7 from "../../../../images/Cart (7).png"
-import Cart8 from "../../../../images/Cart 8.png"
-import Cart9 from "../../../../images/laptop.png"
-import Cart10 from "../../../../images/shampo.png"
-import Cart11 from "../../../../images/Cart.png"
-import Cart12 from "../../../../images/Cart (1).png"
-import Cart13 from "../../../../images/Cart (2).png"
-import Cart14 from "../../../../images/Cart (3).png"
+
 import { FaStar } from "react-icons/fa"
 import { useEffect, useState } from "react"
 import Link from "next/link"

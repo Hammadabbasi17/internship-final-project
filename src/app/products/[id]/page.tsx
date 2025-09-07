@@ -1,12 +1,10 @@
 "use client"
 import Image from "next/image"
-import image5 from "../../../pics/Image (5).png"
-
 
 import { useEffect, useState } from "react";
 import Selling from "@/app/components/Selling/Selling";
-import { notFound } from "next/navigation";
-import { FaHeart, FaMinus, FaPlus, FaStar } from "react-icons/fa";
+
+import { FaMinus, FaPlus, FaStar } from "react-icons/fa";
 
 
 interface types {
