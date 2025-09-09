@@ -115,7 +115,8 @@ const Shop = ({
                         </div>
 
                           
-                        <button className="px-6 py-3 bg-oranges text-white font-semibold rounded-md hover:bg-dark-orange transition-colors duration-300">Add To cart</button>
+                        <button className="px-6 py-3 bg-oranges text-white font-semibold rounded-md hover:bg-dark-orange transition-colors duration-300">Add To Cart</button>
+                        <button className="px-6 py-3 bg-black text-white font-semibold rounded-md hover:bg-dark-orange transition-colors duration-300">Buy Now</button>
 
                     </div>
                     <div>
